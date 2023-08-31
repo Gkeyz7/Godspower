@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <title>BGHC Project</title>
@@ -33,4 +33,3 @@
 
 </body>
 </html>
-Config files for my GitHub profile.
